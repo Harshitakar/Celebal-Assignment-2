@@ -1,0 +1,199 @@
+body{
+    margin: auto;
+    width: 960px;
+ }
+ header{
+     background: #FFE66D80;
+     height: 1262.6337890625px;
+ width: 1919.999755859375px;
+ left: 0px;
+ top: 0px;
+ border-radius: 0px;
+     opacity: 80%;
+ }
+ #main{
+     justify-content: space-between;
+ }
+ #img{
+     height: 56px;
+ width: 168px;
+ left: 49px;
+ top: 32px;
+ border-radius: 0px;
+ 
+ }
+ #nav-bar{
+     display: inline-block;
+    
+ }
+ #nav-bar button{
+     position: absolute;
+     display: inline-block;
+    
+ }
+ #search{
+     height: 56px;
+     width: 286px;
+     left: 1356px;
+     top: 32px;
+     border-radius: 3px;
+     position: relative;
+     left: 1300px;
+     top: -10px;
+ }
+ #bl{
+     position: relative;
+     top: -79px; 
+     left: 1506px;
+ }
+ #login{
+     height: 36px;
+ width: 102px;
+ border-radius: 4px;
+ padding: 16px, 46px, 16px, 46px;
+ background: #FFB703;
+ 
+ }
+ #heading{
+   color: #191919;
+     height: 188px;
+ width: 1456px;
+ position: relative;
+ left: 232px;
+ top: 23px;
+ border-radius: nullpx;
+ font-family: Poppins;
+ font-size: 72px;
+ font-weight: 500;
+ line-height: 94px;
+ letter-spacing: 0.25px;
+ text-align: center;
+ }
+ #start{
+  height: 36px;
+ width: 107px;
+ position: relative;
+ left: 848px;
+ top: -449px;
+ border-radius: 4px;
+ background: #BB8807;
+ 
+ }
+ h1{
+     font-size: 2.5em ;
+     color: #8ECAE6;
+ }
+ #comp{
+     height: 500px;
+ width: 904px;
+ position: relative;
+ left: 500px;
+ top: -230px;
+ border-radius: 0px;
+ opacity: 1;
+ 
+ }
+ #ellipse{
+     height: 471px;
+ width: 491px;
+ left: 595px;
+ top: 169px;
+ border-radius: 0px;
+ position: relative;
+ }
+ #innerellipse{
+ height: 425.1571044921875px;
+ width: 425.1571044921875px;
+ left: 133.2359161376953px;
+ top: 171.60791015625px;
+ border-radius: 0px;
+ position: relative;
+ }
+ #explore{
+     height: 48px;
+     width: 603px;
+     left: 658px;
+     top: 60px;
+     border-radius: nullpx;
+     font-family: Poppins;
+ font-size: 58px;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.25px;
+ text-align: center;
+     position: relative;
+ }
+ 
+ footer{
+     /* Rectangle 44 */
+ position: relative;
+ width: 1920px;
+ height: 72.02px;
+ left: 0px;
+ top: 113.47px;
+ background: #1B1B1B;
+ color: white;
+   display: inline-block;}
+ 
+ footer p{
+     padding: 4px;
+     display: inline-block;}
+     .Celebal{
+        position: relative;
+        left: 400px;
+        top: -1px;
+     }
+     #div{
+         background: #E5E5E5;
+     }
+ 
+ 
+ #pdiv{
+     overflow: hidden;
+     }
+ 
+     #maindiv{
+         display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 1cm;
+        row-gap: 5px;
+ 
+     }
+     #maindiv2{
+         display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 1cm;
+        row-gap: 5px;
+ 
+     }
+     #maindiv3{
+         display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 1cm;
+        row-gap: 5px;
+ 
+     }
+     p{
+         height: 269.0703430175781px;
+ width: 543px;
+ left: 98px;
+ top: 1990px;
+ border-radius: nullpx;
+ font-family: Poppins;
+ font-size: 32px;
+ font-weight: 400;
+ line-height: 49px;
+ letter-spacing: 0.25px;
+ text-align: left;
+ 
+     }
+ 
+     #sdiv{
+         height: 750px;
+         width: 571px;
+         left: 84px;
+         top: 1548px;
+         border-radius: 15px;
+         box-shadow: 0px 4px 4px 0px #00000026;
+ 
+     }
